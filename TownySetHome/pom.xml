@@ -77,21 +77,21 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.19.3-R0.1-SNAPSHOT</version>
+            <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>com.palmergames.bukkit.towny</groupId>
             <artifactId>towny</artifactId>
-            <version>0.98.5.0</version>
+            <version>0.99.5.0</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
-            <groupId>net.ess3</groupId>
+            <groupId>net.essentialsx</groupId>
             <artifactId>EssentialsX</artifactId>
-            <version>2.18.2</version>
+            <version>2.19.0</version>
             <scope>provided</scope>
         </dependency>
 
@@ -99,8 +99,8 @@
             <groupId>io.github.townyadvanced.townycamps</groupId>
             <artifactId>TownyCamps</artifactId>
             <scope>system</scope>
-            <version>0.0.41</version>
-            <systemPath>${pom.basedir}/lib/TownyCamps-0.0.41.jar</systemPath>
+            <version>0.0.44</version>
+            <systemPath>${pom.basedir}/lib/TownyCamps-0.0.44.jar</systemPath>
         </dependency>
 
     </dependencies>

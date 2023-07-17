@@ -79,13 +79,13 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.19.2-R0.1-SNAPSHOT</version>
+            <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.palmergames.bukkit.towny</groupId>
             <artifactId>towny</artifactId>
-            <version>0.98.5.0</version>
+            <version>0.99.5.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -102,18 +102,17 @@
             <systemPath>${pom.basedir}/lib/mcMMO.jar</systemPath>
         </dependency>
         <dependency>
-            <groupId>com.gmail.goosius.siegewar</groupId>
+            <groupId>com.github.TownyAdvanced</groupId>
             <artifactId>SiegeWar</artifactId>
-            <version>1.1.2</version>
-            <scope>system</scope>
-            <systemPath>${pom.basedir}/lib/SiegeWar-1.1.2.jar</systemPath>
+            <version>2.6.1</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>me.nik.combatplus</groupId>
             <artifactId>CombatPlus</artifactId>
-            <version>1.6.5</version>
+            <version>1.6.8</version>
             <scope>system</scope>
-            <systemPath>${pom.basedir}/lib/CombatPlus-1.6.5.jar</systemPath>
+            <systemPath>${pom.basedir}/lib/CombatPlus-1.6.8.jar</systemPath>
         </dependency>
         <!-- BlueSlimeCore -->
         <dependency>
