@@ -126,13 +126,5 @@
             <scope>system</scope>
             <systemPath>${pom.basedir}/lib/mcMMO.jar</systemPath>
         </dependency>
-
-        <dependency>
-            <groupId>com.abc</groupId>
-            <artifactId>KOTH</artifactId>
-            <scope>system</scope>
-            <version>0.0.41</version>
-            <systemPath>${pom.basedir}/lib/KOTH.jar</systemPath>
-        </dependency>
     </dependencies>
 </project>
